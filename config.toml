@@ -22,9 +22,13 @@ enableEmoji = true
     description = "Chenkai HU's personal website"
     keywords = "blog,developer,personal,dev,life,self-management,"
     info = ["Human AI Interaction Researcher", "Magician"]
+    
     avatarURL = "images/avatar-delusion.jpg"
+    favicon_16 = "images/my-favicon-16x16.png"
+    favicon_32 = "images/my-favicon-32x32.png"
+
     gravatar = "chenkai00cs@outlook.com"
-    dateFormat = "January 2, 2006"
+    dateFormat = "December 17, 2015"
     since = 2018
 
     # Git Commit in Footer, uncomment the line below to enable it

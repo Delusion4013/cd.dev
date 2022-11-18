@@ -1,25 +1,47 @@
 +++
 title = "About"
 description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+date = "2022-08-16"
+aliases = ["about-me", "about", "contact"]
+author = "Chenkai HU"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 👋🏻Hi
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Welcome to my Blog. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I just completed my Bachelor degree this year, majoring in 💻Computer Science with a specialization on 🤖Artificial Intelligence. 
+
+
+
+I am now working as an 💬NLP researcher in a tech company located in 📍Hangzhou. 
+
+
+
+I am interested in exploring areas including machine learning, artificial intelligence, 📊data science, 💰financial analysis and general methodologies. Here you could find my 📓notes and 🧐thinking on these areas.
+
+
+
+Besides, I am *INTJ* type from the [16 personalities test](https://www.16personalities.com/free-personality-test), which I found most descriptions fitted myself pretty well.
+
+
+## Books I am reading
+
+- [Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+- [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+- [Natural Language Processing - Approaches based on pre-trained models (Chinese)](https://book.douban.com/subject/35531447/)
+- [Elliott Wave Principle: Key to Stock Market Profits](https://www.amazon.com/Elliott-Wave-Principle-Market-Profits/dp/0932750052)
+- [Financial Statement Analysis and Stock Valuation (Chinese)](https://www.amazon.cn/dp/B0741859P6)
+
+## Books I read this year
+
+- ⭐️[How to take smart notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502)
+- [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-free-Productivity/dp/0349408947)
+- [Rasa in Practice: Build open-source chatbot（Chinese）](https://www.amazon.cn/dp/B09T353ZJF)
+- [Value Investing in Practice (Chinese)](https://www.amazon.cn/dp/B08F6Z5Z2X)
+- [Riminiscences of a Stock Operator](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884)
+- ⭐️[China: Market Economy or Planned Economy (Chinese)](https://cn.ceibs.edu/books/17684)
