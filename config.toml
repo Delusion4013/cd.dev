@@ -27,7 +27,7 @@ enableEmoji = true
     favicon_16 = "images/my-favicon-16x16.png"
     favicon_32 = "images/my-favicon-32x32.png"
 
-    gravatar = "chenkai00cs@outlook.com"
+    # gravatar = "chenkai00cs@outlook.com"
     dateFormat = "December 17, 2015"
     since = 2018
 
