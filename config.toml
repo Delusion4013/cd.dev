@@ -191,27 +191,26 @@ url = "https://www.linkedin.cn/incareer/in/ACoAACxypcwBymkKgicnjXZ8YPbAkGTMP2lAW
         title = "连点成线"
 
         [languages.zh-cn.params]
-            author = "胡辰锴"
+            author = "辰锴"
 
         [languages.zh-cn.menu]
             [[languages.zh-cn.menu.main]]
                 name = "关于"
                 weight = 1
                 url = "/about/"
-            [[languages.zh-cn.menu.main]]
-                name = "学习"
-                weight = 2
-                url  = "/self/"
-            [[languages.zh-cn.menu.main]]
-                name = "技术"
-                weight = 3
-                url  = "/dev/"
-            [[languages.zh-cn.menu.main]]
-                name = "投资"
-                weight = 4
-                url  = "/money/"
-            [[languages.zh-cn.menu.main]]
-                name = "个人项目"
-                weight = 5
-                url  = "/project/"
-            [[languages.zh-cn.menu.main]]
+            # [[languages.zh-cn.menu.main]]
+            #     name = "学习"
+            #     weight = 2
+            #     url  = "/self/"
+            # [[languages.zh-cn.menu.main]]
+            #     name = "技术"
+            #     weight = 3
+            #     url  = "/dev/"
+            # [[languages.zh-cn.menu.main]]
+            #     name = "投资"
+            #     weight = 4
+            #     url  = "/money/"
+            # [[languages.zh-cn.menu.main]]
+            #     name = "个人项目"
+            #     weight = 5
+            #     url  = "/project/"
